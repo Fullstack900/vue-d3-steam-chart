@@ -7,7 +7,10 @@
 ```
 npm install
 ```
-
+## d3 setup
+```
+npm i --save d3
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
