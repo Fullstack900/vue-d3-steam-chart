@@ -2,7 +2,8 @@
 
 
 # D3-steam-chart
-![steamchart](https://user-images.githubusercontent.com/115550912/209122471-f0a94e47-3260-44e6-a32f-4f0e31bfd690.gif)
+![steamchart](https://user-images.githubusercontent.com/115550912/209122682-c0997077-bdc7-4b93-b709-c79dddef76b0.png)
+
 
 ## Project setup
 ```
