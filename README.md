@@ -7,7 +7,7 @@
 ```
 npm install
 ```
-### d3 setup
+### D3 setup
 ```
 npm i --save d3
 ```
