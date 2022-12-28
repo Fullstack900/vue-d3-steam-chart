@@ -1,8 +1,5 @@
 
-![sankey-chart](https://user-images.githubusercontent.com/115550912/209818195-58fa1b39-0967-4233-83f8-b4d94177d9cd.png)
 
-
-# D3-steam-chart
 ![steamchart](https://user-images.githubusercontent.com/115550912/209122682-c0997077-bdc7-4b93-b709-c79dddef76b0.png)
 
 
